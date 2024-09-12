@@ -1,0 +1,7 @@
+---
+title: "Emily Su"
+---
+
+
+Hi! I'm Emily. I'm an undergraduate student at the University of Toronto with double majors in computer science and statistics and a minor in digital humanities. My current interest lies in human-computer interaction, information visualization, data science, creative technology, web & software development, and anything in between. Currently, I'm a research assistant under the [Faculty of Information](https://ischool.utoronto.ca/) at the COoKIE Group.
+
